@@ -9,9 +9,6 @@ To run this project, you need to have Python installed. It is recommended to use
 * git clone https://github.com/Sameer103/pixel_coordinate_prediction.git
 * cd pixel-coordinate-prediction
 * Create a Virtual Environment python -m venv venv
-  
-## Install Dependencies 
-* pip install -r requirements.txt
 
 ## Output
 The Jupyter notebook includes plots of:
