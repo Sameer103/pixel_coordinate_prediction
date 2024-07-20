@@ -6,9 +6,9 @@ This project aims to predict the coordinates (x, y) of a single white pixel (val
 To run this project, you need to have Python installed. It is recommended to use a virtual environment. Follow the steps below to set up the environment and install the necessary dependencies:
 
 ## Clone the Repository
-* git clone https://github.com/yourusername/pixel-location-prediction.git
-* cd pixel-location-prediction
-* Create a Virtual Environment >>python -m venv venv
+* git clone https://github.com/Sameer103/pixel_coordinate_prediction.git
+* cd pixel-coordinate-prediction
+* Create a Virtual Environment python -m venv venv
   
 ## Install Dependencies 
 * pip install -r requirements.txt
