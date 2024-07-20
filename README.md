@@ -8,7 +8,7 @@ Predicted Coordinates with Images in the dataset
 </p>  
 
 ## Installation
-To run this project, you need to have Python installed. It is recommended to use a virtual environment. Follow the steps below to set up the environment and install the necessary dependencies:
+To run this project, you need to have Python installed. It is recommended to use a virtual environment: 
 
 ## Clone the Repository
 * git clone https://github.com/Sameer103/pixel_coordinate_prediction.git
@@ -21,4 +21,7 @@ The Jupyter notebook includes plots of:
 * Training and validation loss over epochs.
 * Training and validation accuracy over epochs.
 * Ground truth vs. predicted coordinates for sample test images.
-  
+![training dat](https://github.com/user-attachments/assets/aaba8e75-0acc-4bb1-aa5d-2c737a89eb2d)
+<p align="center">
+Visualizing the loss and accuracy over epochs for both training and validation sets to understand the model's learning process and check for overfitting or underfitting
+</p>
