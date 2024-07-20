@@ -10,10 +10,11 @@ Predicted Coordinates with Images in the dataset
 ## Installation
 To run this project, you need to have Python installed. It is recommended to use a virtual environment: 
 
-## Clone the Repository
+### Clone the Repository
 * git clone https://github.com/Sameer103/pixel_coordinate_prediction.git
 * cd pixel-coordinate-prediction
-* Create a Virtual Environment python -m venv venv
+### Create a Virtual Environment 
+* python -m venv venv
 
 ## Output
 The Jupyter notebook includes plots of:
