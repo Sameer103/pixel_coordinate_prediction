@@ -17,7 +17,7 @@ To run this project, you need to have Python installed. It is recommended to use
 * python -m venv venv
 
 ## Output
-The Jupyter notebook includes plots of:
+The Colab notebook includes plots of:
 
 * Training and validation loss over epochs.
 * Training and validation accuracy over epochs.
