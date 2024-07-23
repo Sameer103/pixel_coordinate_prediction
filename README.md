@@ -26,3 +26,6 @@ The Colab notebook includes plots of:
 <p align="center">
 Visualizing the loss and accuracy over epochs for both training and validation sets to understand the model's learning process and check for overfitting or underfitting
 </p>
+
+Outputs shown here are subject to random dataset, this output can alter with the random dataset generated with the function.
+Also the number of values can be alter with respect to the system support
