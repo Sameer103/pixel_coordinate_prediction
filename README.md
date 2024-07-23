@@ -1,4 +1,4 @@
-# Predicting the Location of a Single White Pixel in a 50x50 Image using Deep Learning
+# Predicting the coordination of a Single White Pixel in a 50x50 Image using Deep Learning
 ## Overview
 This project aims to predict the coordinates (x, y) of a single white pixel (value 255) in a 50x50 grayscale image where all other pixels are black (value 0). The project involves generating a dataset, building and training a convolutional neural network (CNN), and evaluating its performance.
 
